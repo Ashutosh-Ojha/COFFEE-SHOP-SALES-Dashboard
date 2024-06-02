@@ -2,7 +2,7 @@
 
 
 ## Dashboard
-
+<img src = https://github.com/Ashutosh-Ojha/COFFEE-SHOP-SALES-Dashboard/blob/master/Dashboard.png>
 
 
 ### Technical Stacks<br>
